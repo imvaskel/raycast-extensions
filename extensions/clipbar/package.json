@@ -3,7 +3,7 @@
   "name": "clipbar",
   "title": "clipbar",
   "description": "Adds a clipboard extra to the menu bar.",
-  "icon": "command-icon.png",
+  "icon": "icon.png",
   "version": "0.1.0",
   "author": "imvaskel",
   "categories": [
